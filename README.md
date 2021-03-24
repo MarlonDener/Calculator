@@ -1,6 +1,8 @@
 <h1>Calculator</h1>
 
-Tecnlogoies Used:
+#This is a simple calculator
+
+technology used:
 <table>
   <tr>
     <td>HTML</td>
