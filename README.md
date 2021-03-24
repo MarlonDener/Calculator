@@ -1,8 +1,8 @@
 <h1>Calculator</h1>
 
-<h3>This is a simple calculator</h3>
+This is a simple calculator
 
-technology used:
+<h3>technology used:</h3>
 <table>
   <tr>
     <td>HTML</td>
@@ -18,7 +18,7 @@ technology used:
   
 </table>
 
-How to run the application:
+<h3How to run the application:</h3>
 
 1) Make sure you have Vue js, make sure you have Vue js, if not, follow the steps here https://br.vuejs.org/v2/guide/installation.html
 2) Open your folder in CDM
