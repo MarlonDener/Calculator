@@ -1,4 +1,6 @@
-<h1>Calculadora</h1>
+<h1>Calculator</h1>
+
+![calc](https://user-images.githubusercontent.com/70349830/112333979-d23c8a80-8c99-11eb-92c3-87eb37f624b4.jpeg)
 
 Tecnlogoies Used:
 <table>
