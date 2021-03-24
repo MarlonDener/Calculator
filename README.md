@@ -2,7 +2,7 @@
 
 This is a simple calculator
 
-<h3>technology used:</h3>
+<h3>Technology used:</h3>
 <table>
   <tr>
     <td>HTML</td>
