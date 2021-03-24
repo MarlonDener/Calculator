@@ -18,7 +18,7 @@ This is a simple calculator
   
 </table>
 
-<h3How to run the application:</h3>
+<h3>How to run the application:</h3>
 
 1) Make sure you have Vue js, make sure you have Vue js, if not, follow the steps here https://br.vuejs.org/v2/guide/installation.html
 2) Open your folder in CDM
