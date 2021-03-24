@@ -1,6 +1,6 @@
 <h1>Calculator</h1>
 
-#This is a simple calculator
+<h3>This is a simple calculator</h3>
 
 technology used:
 <table>
