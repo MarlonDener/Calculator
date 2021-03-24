@@ -1,7 +1,5 @@
 <h1>Calculator</h1>
 
-![calc](https://user-images.githubusercontent.com/70349830/112333979-d23c8a80-8c99-11eb-92c3-87eb37f624b4.jpeg)
-
 Tecnlogoies Used:
 <table>
   <tr>
@@ -26,3 +24,7 @@ How to run the application:
 4) run CDM - npm run serve
 5) Finally open the project on your localhost
 
+
+![calc](https://user-images.githubusercontent.com/70349830/112334552-470fc480-8c9a-11eb-84c7-9cf06d488098.jpg)
+
+thank you so much!
